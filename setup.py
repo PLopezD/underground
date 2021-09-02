@@ -13,6 +13,7 @@ INSTALL_REQUIRES = [
     "gtfs-realtime-bindings>=0.0.6",
     "protobuf3-to-dict>=0.1.5",
     "click>=7.0",
+    "pydantic>=0.1",
     "pytz>=2019.2",
 ]
 
